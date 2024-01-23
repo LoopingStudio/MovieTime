@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "20D2191E-EB21-47D7-B90B-EEE75BD66B1C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC5B942F-C796-4E22-B684-EF796E9DD1D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared/View/MovieGrid.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DC5B942F-C796-4E22-B684-EF796E9DD1D4 - 56dd7b2385413e87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TheVisionMovie.Multi) -&gt; Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.AsyncImage&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, SwiftUI.Text)&gt;&gt;, SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Movie&gt;, Swift.Int, SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;&gt;)&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Multi&gt;, Swift.Int, Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.AsyncImage&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, SwiftUI.Text)&gt;&gt;, SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Movie&gt;, Swift.Int, SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;&gt;)&gt;&gt;&gt;&gt; in TheVisionMovie.MovieGrid.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/Shared/View/MovieGrid.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1996">
+               </Location>
+               <Location
+                  uuid = "DC5B942F-C796-4E22-B684-EF796E9DD1D4 - 4bf2e333b81e1235"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.AsyncImage&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, SwiftUI.Text)&gt; in closure #1 (TheVisionMovie.Multi) -&gt; Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.AsyncImage&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, SwiftUI.Text)&gt;&gt;, SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Movie&gt;, Swift.Int, SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;&gt;)&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Multi&gt;, Swift.Int, Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.AsyncImage&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, SwiftUI.Text)&gt;&gt;, SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Movie&gt;, Swift.Int, SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;&gt;)&gt;&gt;&gt;&gt; in TheVisionMovie.MovieGrid.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/Shared/View/MovieGrid.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "DC5B942F-C796-4E22-B684-EF796E9DD1D4 - f9bbe67e4100e8b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TheVisionMovie.Multi) -&gt; Swift.Optional&lt;SwiftUI._ConditionalContent&lt;TheVisionMovie.MovieLittlePoster, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Movie&gt;, Swift.Int, SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;&gt;)&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Multi&gt;, Swift.Int, Swift.Optional&lt;SwiftUI._ConditionalContent&lt;TheVisionMovie.MovieLittlePoster, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Movie&gt;, Swift.Int, SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;&gt;)&gt;&gt;&gt;&gt; in TheVisionMovie.MovieGrid.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/Shared/View/MovieGrid.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "2048">
+               </Location>
+               <Location
+                  uuid = "DC5B942F-C796-4E22-B684-EF796E9DD1D4 - 147b3dbe90c80cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 (TheVisionMovie.Multi) -&gt; Swift.Optional&lt;SwiftUI._ConditionalContent&lt;TheVisionMovie.MovieLittlePoster, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Movie&gt;, Swift.Int, SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;&gt;)&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Multi&gt;, Swift.Int, Swift.Optional&lt;SwiftUI._ConditionalContent&lt;TheVisionMovie.MovieLittlePoster, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, SwiftUI.ForEach&lt;Swift.Array&lt;TheVisionMovie.Movie&gt;, Swift.Int, SwiftUI.NavigationLink&lt;TheVisionMovie.MovieLittlePoster, TheVisionMovie.MovieDetailView&gt;&gt;)&gt;&gt;&gt;&gt; in TheVisionMovie.MovieGrid.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/Shared/View/MovieGrid.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0171683-0B85-4F4D-886A-9ECB4715F4C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheVisionMovie/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E0171683-0B85-4F4D-886A-9ECB4715F4C9 - be4eacf5d324404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #2 @Sendable () async -&gt; () in TheVisionMovie.MovieDetailView.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/TheVisionMovie/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "E0171683-0B85-4F4D-886A-9ECB4715F4C9 - 233df6eaf3190006"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for closure #2 @Sendable () async -&gt; () in TheVisionMovie.MovieDetailView.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/TheVisionMovie/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "E0171683-0B85-4F4D-886A-9ECB4715F4C9 - fb4af289a960fc18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for closure #2 @Sendable () async -&gt; () in TheVisionMovie.MovieDetailView.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/TheVisionMovie/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E0171683-0B85-4F4D-886A-9ECB4715F4C9 - 888eb14a19bcaf93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for closure #2 @Sendable () async -&gt; () in TheVisionMovie.MovieDetailView.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/TheVisionMovie/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "E0171683-0B85-4F4D-886A-9ECB4715F4C9 - 2d5ff60b3c482ba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(42) suspend resume partial function for closure #2 @Sendable () async -&gt; () in TheVisionMovie.MovieDetailView.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/TheVisionMovie/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "E0171683-0B85-4F4D-886A-9ECB4715F4C9 - 6778d4c5ff4688b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(49) suspend resume partial function for closure #2 @Sendable () async -&gt; () in TheVisionMovie.MovieDetailView.body.getter : some"
+                  moduleName = "TheVisionMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kelian/Documents/TheMovieDB/TheVisionMovie/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
